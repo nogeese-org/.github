@@ -29,7 +29,7 @@ A Pacman Configuration Tool.
 A Management Toolkit to Get All Info.
 
 ## Nogeese Licenses
-### [Nogeese Public License 1.0 (NPL 1.0)](https://github.com/leon8326-nogesee/License)
+### [Nogeese Public License 1.0 (NPL 1.0)](https://github.com/leon8326-nogeese/License)
 License for Open-Source Projects.
 
 ## Project Licenses
