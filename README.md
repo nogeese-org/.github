@@ -30,5 +30,6 @@ A Management Toolkit to Get All Info.
 
 ## Project Licenses
 Linux Distro - GNU GPLv3
+
 AUR - Apache-2.0 license
 
