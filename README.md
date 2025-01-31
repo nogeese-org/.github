@@ -27,3 +27,8 @@ A Pacman Configuration Tool.
 [InfoKit](https://github.com/leon8326-nogeese/InfoKit)
 
 A Management Toolkit to Get All Info.
+
+## Project Licenses
+Linux Distro - GNU GPLv3
+AUR - Apache-2.0 license
+
