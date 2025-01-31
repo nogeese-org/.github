@@ -28,8 +28,14 @@ A Pacman Configuration Tool.
 
 A Management Toolkit to Get All Info.
 
+## Nogeese Licenses
+### [Nogeese Public License 1.0 (NPL 1.0)](https://github.com/leon8326-nogesee/License)
+License for Open-Source Projects.
+
 ## Project Licenses
 Linux Distro - GNU GPLv3
 
 AUR - Apache-2.0 license
+
+InfoKit - NPL 1.0
 
