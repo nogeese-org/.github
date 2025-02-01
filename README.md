@@ -32,6 +32,10 @@ A Management Toolkit to Get All Info.
 ### [Nogeese Public License 1.0 (NPL 1.0)](https://github.com/leon8326-nogeese/License)
 License for Open-Source Projects.
 
+### [Closed Nogeese Public License 1.0 (CNPL 1.0)](https://github.com/leon8326-nogeese/License)
+License for Closed-Source Projects.
+
+
 ## Project Licenses
 Linux Distro - GNU GPLv3
 
