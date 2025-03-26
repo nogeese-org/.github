@@ -29,6 +29,17 @@ A Pacman Configuration Tool.
 
 A Management Toolkit to Get All Info.
 
+## Narp (BTK) 
+### Whee
+A new programming language with easy deployment and automation.
+
+[GitHub](https://github.com/NarpLang/whee)
+### Brewix
+Packaging using Git and Ruby.
+
+[Learn More](https://github.com/BrewixHub/brewix)
+
+
 ## Nogeese Licenses
 ### [Nogeese Public License 1.0 (NPL 1.0)](https://github.com/leon8326-nogeese/License)
 License for Open-Source Projects.
