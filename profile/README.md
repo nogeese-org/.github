@@ -37,7 +37,7 @@ A new programming language with easy deployment and automation.
 ### Brewix
 Packaging using Git and Ruby.
 
-[Learn More](https://github.com/BrewixHub/brewix)
+[GitHub](https://github.com/BrewixHub/brewix)
 
 
 ## Nogeese Licenses
