@@ -1,3 +1,4 @@
+![Nogeese Logo](https://raw.githubusercontent.com/nogeese-org/.github/main/logo/nogeese-logo.png)
 
 [For more info, click here.](https://github.com/leon8326-nogeese/leon8326-nogeese)
 ## Nogeese Linux
